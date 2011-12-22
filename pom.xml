@@ -4,7 +4,7 @@
   <groupId>org.couchbase.mock</groupId>
   <artifactId>CouchbaseMock</artifactId>
   <packaging>jar</packaging>
-  <version>0.5-SNAPSHOT</version>
+  <version>0.5-69e953bd</version>
   <name>CouchbaseMock</name>
   <url>http://maven.apache.org</url>
 
